@@ -44,3 +44,44 @@ Sales_Forecasting_Project/
 ├── sales_forecasting.py
 ├── forecast_results.csv
 └── README.md
+
+## Project Screenshots
+
+### Monthly Sales Trend
+
+![Monthly Sales Trend](images/monthly_sales_trend.png)
+
+### Model Comparison
+
+![Model Comparison](images/model_comparison.png)
+
+### Future Sales Forecast
+
+![Future Forecast](images/future_sales_forecast.png)
+
+## Results
+
+* Successfully analyzed 9,994 sales records.
+* Built forecasting models using Linear Regression and Random Forest.
+* Evaluated model performance using Mean Absolute Error (MAE).
+* Generated future sales predictions for the next 6 months.
+* Visualized sales trends and forecasting results.
+
+## Future Enhancements
+
+* Deploy using Streamlit.
+* Add interactive dashboards.
+* Use advanced forecasting models like ARIMA and Prophet.
+* Connect to live business sales databases.
+
+## Skills Demonstrated
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Scikit-Learn
+* Data Analysis
+* Machine Learning
+* Forecasting
+* Data Visualization
